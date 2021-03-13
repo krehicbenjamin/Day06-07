@@ -1,0 +1,23 @@
+.Heading{
+    color: red;
+    text-align: center;
+}
+.content{
+    width: 80%;
+    margin: auto;
+}
+.photo{
+    width: 100%;
+}
+
+p{
+    color:black;
+}
+
+.secondTitle{
+    color: aqua;
+}
+.container{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+}
